@@ -1,0 +1,7 @@
+
+{ "user": "<userName>","host": "localhost","database": "<databaseName>",
+"password": "<password>","port": 5432, 
+"pass": "you gmailpwd","userName": "your gmail mail id",
+"subject": "Sending Email using Node.js","text": "That was easy!","strVal":"Invalid mailID is:","service": "gmail"}
+
+ 
