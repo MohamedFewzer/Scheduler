@@ -121,8 +121,8 @@ function erroHandling(){
                 errorCatch(err, 'reschedule', 'Pending')
             }else {
                 currentTime = res.rows
-                for (let errorrow of currentTime) {
-                    reScheduling(errorrow);
+                for (let rowCatch of currentTime) {
+                    reScheduling(rowCatch);
                 }
             }
         })
